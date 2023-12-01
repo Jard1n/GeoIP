@@ -15,4 +15,4 @@
 | GeoIP2 CN数据库 | GeoIP-CN.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb) |
 | GeoIP2 数据库 | GeoIP.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) |
 
-🔧 适用范围：Surge, Shadowrocket,<br>QuantumultX, Clash<br>等较新的代理工具
+🔧 适用范围：Surge, Shadowrocket, QuantumultX, Clash等较新的代理工具

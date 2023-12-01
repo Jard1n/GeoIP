@@ -9,3 +9,14 @@
 - 项目每天自动化部署更新
   
 https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb
+https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb
+
+## 📥 下载链接
+| 📦 项目 | 📃 文件 | 🐙 GitHub RAW | 🚀 CDN 加速 | 🔧 适用范围
+|  :--:  |  :--:  |     :--:     |     :--:    | ---- |
+| GeoIP2 CN数据库 | CN-ip-cidr.txt | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb) | 防火墙、较老的代理工具等 |
+| GeoIP2 数据库 | Country.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) | Surge, Shadowrocket,<br>QuantumultX, Clash<br>等较新的代理工具|
+
+对于网络状况良好、无污染的环境下，建议选择 GitHub RAW 的方式下载，因为可以第一获取到最新的资源，因为服务器在境外，可能下载响应时间和速度稍长，但因为文件小，所以通常问题不大。
+
+对于网络状况不好，存在污染的环境下，建议选择 CDN 加速的方式下载，速度非常快。但是可能存在缓存未更新的情况，很可能下载到旧的资源。

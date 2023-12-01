@@ -8,3 +8,4 @@
 
 - 项目每天自动化部署更新
   
+https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb

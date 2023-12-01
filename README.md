@@ -13,7 +13,7 @@ https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb
 
 ## 📥 下载链接
 | 📦 项目 | 📃 文件 | 🐙 GitHub RAW | 🚀 CDN 加速 | 🔧 适用范围
-|  :--:  |  :--:  |     :--:     |     :--:    | ---- |
+|  :--:  |  :--:  |     :--:     |     :--:    |
 | GeoIP2 CN数据库 | GeoIP-CN.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb) |
 | GeoIP2 数据库 | GeoIP.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) |
 

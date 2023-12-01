@@ -16,3 +16,6 @@
 | GeoIP2 数据库 | GeoIP.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) |
 
 🔧 适用范围：Surge, Shadowrocket, QuantumultX, Clash等较新的代理工具
+
+
+GeoIP® 商标版权归 [MaxMind](https://www.maxmind.com/) 公司所有

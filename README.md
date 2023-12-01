@@ -8,10 +8,3 @@
 
 - 项目每天自动化部署更新
   
-  纯自用，如有另外的中国大陆 IP 数据源可提 issues
-
-## License
-
-[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-This product includes GeoLite2 data created by MaxMind, available from [MaxMind](http://www.maxmind.com).

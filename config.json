@@ -152,6 +152,10 @@
         "outputDir": "./publish",
         "wantedList": ["cn"]
       }
+    },
+    {
+      "type": "text",
+      "action": "output"
     }
   ]
 }

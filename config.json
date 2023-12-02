@@ -84,9 +84,58 @@
         "uri": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
         "onlyIPType": "ipv6"
       }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "cloudflare",
+        "uri": "https://www.cloudflare.com/ips-v4"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "cloudflare",
+        "uri": "https://www.cloudflare.com/ips-v6"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "telegram",
+        "uri": "https://core.telegram.org/resources/cidr.txt"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "inputDir": "./data"
+      }
     }
   ],
   "output": [
+    {
+      "type": "maxmindMMDB",
+      "action": "output",
+      "args": {
+        "outputName": "GeoIP.mmdb",
+        "overwriteList": [
+          "cn",
+          "cloudflare",
+          "cloudfront",
+          "facebook",
+          "fastly",
+          "google",
+          "netflix",
+          "telegram",
+          "twitter"
+        ]
+      }
+    },
     {
       "type": "maxmindMMDB",
       "action": "output",
@@ -96,10 +145,11 @@
       }
     },
     {
-      "type": "maxmindMMDB",
+      "type": "surgeRuleSet",
       "action": "output",
       "args": {
-        "outputName": "GeoIP.mmdb"
+        "outputDir": "./publish",
+        "wantedList": ["cn"]
       }
     },
     {

@@ -148,7 +148,6 @@
       "type": "surgeRuleSet",
       "action": "output",
       "args": {
-        "outputName": "ChinaIP.list",
         "outputDir": "./publish",
         "wantedList": ["cn"]
       }

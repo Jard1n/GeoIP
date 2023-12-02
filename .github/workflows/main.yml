@@ -55,7 +55,7 @@ jobs:
           rm -f GeoLite2-Country-CSV.zip
           mv GeoLite2* geolite2
 
-      - name: Build geoip.dat file
+      - name: Build geoip file
         run: |
           go run ./
 

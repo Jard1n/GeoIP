@@ -13,9 +13,7 @@
       "type": "cutter",
       "action": "remove",
       "args": {
-        "wantedList": [
-          "cn"
-        ],
+        "wantedList": ["cn"],
         "onlyIPType": "ipv4"
       }
     },
@@ -23,9 +21,7 @@
       "type": "cutter",
       "action": "remove",
       "args": {
-        "wantedList": [
-          "cn"
-        ],
+        "wantedList": ["cn"],
         "onlyIPType": "ipv6"
       }
     },
@@ -96,9 +92,7 @@
       "action": "output",
       "args": {
         "outputName": "GeoIP-CN.mmdb",
-        "wantedList": [
-          "cn"
-        ]
+        "wantedList": ["cn"]
       }
     },
     {

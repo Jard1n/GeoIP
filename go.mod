@@ -1,6 +1,6 @@
 module github.com/Loyalsoldier/geoip
 
-go 1.19
+go 1.20
 
 require (
 	github.com/maxmind/mmdbwriter v1.0.0

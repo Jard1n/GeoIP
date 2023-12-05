@@ -20,7 +20,7 @@
 
 🔧 适用范围：Surge, Shadowrocket, QuantumultX, Clash等较新的代理工具
 
-- GeoIP2 数据库新增类别（方便有特殊需求的用户使用）：
+- GeoIP2 完整版新增类别（方便有特殊需求的用户使用）：
   - `cloudflare`（`GEOIP,CLOUDFLARE`）
   - `cloudfront`（`GEOIP,CLOUDFRONT`）
   - `facebook`（`GEOIP,FACEBOOK`）

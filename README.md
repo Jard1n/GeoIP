@@ -12,24 +12,23 @@
 ### 🤖️ 自动化更新
 项目每隔 2 天通过全自动化部署自动更新，时刻保持最佳体验，无需人工干预。
 
-- GeoIP2 数据库新增类别（方便有特殊需求的用户使用）：
-  - `geoip:cloudflare`（`GEOIP,CLOUDFLARE`）
-  - `geoip:cloudfront`（`GEOIP,CLOUDFRONT`）
-  - `geoip:facebook`（`GEOIP,FACEBOOK`）
-  - `geoip:fastly`（`GEOIP,FASTLY`）
-  - `geoip:google`（`GEOIP,GOOGLE`）
-  - `geoip:netflix`（`GEOIP,NETFLIX`）
-  - `geoip:telegram`（`GEOIP,TELEGRAM`）
-  - `geoip:twitter`（`GEOIP,TWITTER`）
-
 ## 📥 下载链接
 | 📦 项目 | 📃 文件 | 🐙 GitHub RAW | 🚀 CDN 加速 |
 |  :--:  |  :--:  |     :--:     |     :--:    |
-| GeoIP2 CN数据库 | GeoIP-CN.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb) |
-| GeoIP2 数据库 | GeoIP.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) |
+| GeoIP2 CN | GeoIP-CN.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP-CN.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP-CN.mmdb) |
+| GeoIP2 完整版 | GeoIP.mmdb | [点我下载](https://raw.githubusercontent.com/Jard1n/GeoIP/release/GeoIP.mmdb) | [点我起飞](https://cdn.jsdelivr.net/gh/Jard1n/GeoIP@release/GeoIP.mmdb) |
 
 🔧 适用范围：Surge, Shadowrocket, QuantumultX, Clash等较新的代理工具
 
+- GeoIP2 数据库新增类别（方便有特殊需求的用户使用）：
+  - `cloudflare`（`GEOIP,CLOUDFLARE`）
+  - `cloudfront`（`GEOIP,CLOUDFRONT`）
+  - `facebook`（`GEOIP,FACEBOOK`）
+  - `fastly`（`GEOIP,FASTLY`）
+  - `google`（`GEOIP,GOOGLE`）
+  - `netflix`（`GEOIP,NETFLIX`）
+  - `telegram`（`GEOIP,TELEGRAM`）
+  - `twitter`（`GEOIP,TWITTER`）
 
 ## 🏅 版权声明
 

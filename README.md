@@ -12,6 +12,16 @@
 ### 🤖️ 自动化更新
 项目每隔 2 天通过全自动化部署自动更新，时刻保持最佳体验，无需人工干预。
 
+- GeoIP2 数据库新增类别（方便有特殊需求的用户使用）：
+  - `geoip:cloudflare`（`GEOIP,CLOUDFLARE`）
+  - `geoip:cloudfront`（`GEOIP,CLOUDFRONT`）
+  - `geoip:facebook`（`GEOIP,FACEBOOK`）
+  - `geoip:fastly`（`GEOIP,FASTLY`）
+  - `geoip:google`（`GEOIP,GOOGLE`）
+  - `geoip:netflix`（`GEOIP,NETFLIX`）
+  - `geoip:telegram`（`GEOIP,TELEGRAM`）
+  - `geoip:twitter`（`GEOIP,TWITTER`）
+
 ## 📥 下载链接
 | 📦 项目 | 📃 文件 | 🐙 GitHub RAW | 🚀 CDN 加速 |
 |  :--:  |  :--:  |     :--:     |     :--:    |
